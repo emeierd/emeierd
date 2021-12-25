@@ -1,4 +1,23 @@
-### Hi there 👋
+## Hola 👋
+
+## Sobre mí
+Mi nombre es Erwin y soy ingeniero civil industrial con mención en informática.
+
+* Actualmente estoy trabajando como ingeniero de datos en liquidos.cl
+* Actualmente estoy tomando un bootcamp de Fullstack MERN en codingdojo.cl
+* Me gusta el área de la tecnología e información y tengo facilidad en aprender nuevas tecnologías
+
+## Habilidades
+* Bases de datos SQL y NoSQL
+* Lenguajes de programación Python, JavaScript, HTML, R
+* Docker
+* Airflow
+* Linux
+* API
+* Scraping
+* Kafka
+* Inglés
+
 
 <!--
 **emeierd/emeierd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
